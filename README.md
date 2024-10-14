@@ -1,5 +1,7 @@
 # Développement d'une Application Mobile pour "Fruits!"
 
+<img src="https://user.oc-static.com/upload/2019/02/25/15510884721455_Logo%20projet%20big%20data.png" />
+
 ## Contexte
 
 "Fruits!" est une start-up innovante dans le domaine de l'AgriTech, dédiée à la préservation de la biodiversité des fruits grâce à des solutions technologiques avancées. L'entreprise souhaite lancer une application mobile permettant aux utilisateurs de prendre en photo un fruit et d'obtenir des informations détaillées à son sujet. Cette application vise à sensibiliser le public à la biodiversité des fruits et à établir une première version du moteur de classification des images de fruits.
